@@ -2,7 +2,6 @@ python-dotenv
 pandas
 numpy
 setuptools
-pymongo
 certifi
-
-# -e .
+pymongo>=4.0.0
+dnspython>=2.0.0

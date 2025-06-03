@@ -4,8 +4,7 @@ distributing Python projects. It is used by setuptools
 (or distutils in older Python versions) to define the configuration 
 of your project, such as its metadata, dependencies, and more
 '''
-
-from setuptools import find_packages, setup
+from setuptools import setup, find_packages
 
 from typing import List
 

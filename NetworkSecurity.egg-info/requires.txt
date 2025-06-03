@@ -1,0 +1,7 @@
+python-dotenv
+pandas
+numpy
+setuptools
+certifi
+pymongo>=4.0.0
+dnspython>=2.0.0

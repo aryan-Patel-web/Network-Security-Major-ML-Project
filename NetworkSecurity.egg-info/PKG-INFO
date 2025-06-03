@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: NetworkSecurity
+Version: 0.0.1
+Author: Aryan Patel
+Author-email: aryanpatel77462@gmail.com
+Requires-Dist: python-dotenv
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: setuptools
+Requires-Dist: certifi
+Requires-Dist: pymongo>=4.0.0
+Requires-Dist: dnspython>=2.0.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

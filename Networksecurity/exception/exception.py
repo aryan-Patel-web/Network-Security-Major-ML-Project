@@ -1,6 +1,9 @@
 import sys
-from Networksecurity.logging import logger
+import os
+sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
+from networksecurity.logging import logger
 
+# ...rest of the code remains the same...
 class NetworkSecurityException(Exception):
     def __init__(self, error_message, error_details):
         self.error_message = error_message
